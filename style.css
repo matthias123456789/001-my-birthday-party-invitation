@@ -1,0 +1,15 @@
+body{
+    background-color: #940fa3
+}
+
+div{
+    background-color: aqua;
+    text-align: center;
+    padding: 100px 20px 30px 60px;
+    border-radius: 30px;
+    font-size: 30px;
+}
+
+img{
+    width: 400px;
+}
